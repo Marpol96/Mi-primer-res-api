@@ -11,6 +11,3 @@ router.get('/test', (req, res) => {
 });
 
 module.exports = router;
-
-
-MINUTO 33:08 DEL VIDEO

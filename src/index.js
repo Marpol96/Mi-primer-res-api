@@ -16,6 +16,7 @@ app.use(express.json()); /*Permite comenzar a recibir formatos JSON*/
 
 /*Rutas traidas desde la carpeta routes en el archivo index ubicado en dicha carpeta */
 app.use(require('./routes/index'));
+app.use('/api/movies',require('./routes/movies'));
 
 /* enviaremos un mensaje que el puerto fue abierto en el 3000*/
 app.listen(3000,() => {

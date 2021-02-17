@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Aliens",
+        "director": "Cameron",
+        "year": "1986",
+        "raiting": "8.5"
+    },
+    {
+        "id": 2,
+        "title": "Matrix",
+        "director": "Paul Heyman",
+        "year": "1990",
+        "raiting": "9.5"
+    }
+]
